@@ -17,8 +17,8 @@ A Music Player app for Android that allows users to play and manage music files 
 - Third-party libraries: Dexter and AudioVisualizer 
 
 ## Screenshots
-![Screenshot_Music_Player 1](https://github.com/Dipti-coder/Music-Player-App/assets/83566655/cd755b0f-06ec-4cc3-b8ad-ba1ad9b1f765)
-![Screenshot_Music_player2](https://github.com/Dipti-coder/Music-Player-App/assets/83566655/a073edc4-ba69-43c0-9c02-4de1fb0c4ae5)
+ <img src="https://github.com/Dipti-coder/Music-Player-App/assets/83566655/cd755b0f-06ec-4cc3-b8ad-ba1ad9b1f765" alt="Screenshot 1" width="300px" height="">
+ <img src="https://github.com/Dipti-coder/Music-Player-App/assets/83566655/a073edc4-ba69-43c0-9c02-4de1fb0c4ae5" alt="Screenshot 2" width="300px" height="">
 
 ## License
 
