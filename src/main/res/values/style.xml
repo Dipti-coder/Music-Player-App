@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- In res/values/styles.xml -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize ActionBar color -->
+        <item name="colorPrimary">#982D29</item>
+        <!-- Customize ActionBar title color (optional) -->
+        <item name="android:textColorPrimary">#D87D7A</item>
+        <!-- Other style customizations -->
+        <item name="android:statusBarColor">#DD0F0F</item>
+    </style>
+
+</resources>
